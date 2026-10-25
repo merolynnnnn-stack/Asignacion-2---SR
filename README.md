@@ -497,12 +497,15 @@ La opción `aes128-cbc` se utilizó por compatibilidad con el IOS del laboratori
 
 ## 12. Running-Configs
 
-Los archivos completos de configuración del router y del switch se encuentran en la carpeta `Configuraciones`.
+En esta carpeta se encuentran las configuraciones completas del router y del switch utilizadas durante el laboratorio.
 
-- [Running-Config de R1-RADIUS](Configuraciones/R1-RADIUS-running-config.txt)
-- [Running-Config de SW1-RADIUS](Configuraciones/SW1-RADIUS-running-config.txt)
+- [Running-Config del router R1-RADIUS](Configuraciones/Show%20running%20R1-RADIUS.txt)
+- [Running-Config del switch SW1-RADIUS](Configuraciones/Show%20running%20SW-RADIUS.txt)
 
-Por seguridad, las versiones publicadas deben ocultar contraseñas, hashes y claves compartidas RADIUS.
+Las configuraciones incluyen AAA, RADIUS, SSH, Accounting y las medidas de seguridad implementadas.
+
+Por seguridad, se han ocultado las contraseñas y claves compartidas.
+
 
 ---
 
