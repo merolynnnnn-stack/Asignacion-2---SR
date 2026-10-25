@@ -9,9 +9,9 @@
 
 ## 🎥 Video demostrativo
 
-**[Ver video demostrativo del laboratorio](ENLACE_DEL_VIDEO)**
+**[Ver video demostrativo del laboratorio](https://youtu.be/Q0eV1bktjco)**
 
-> El video demuestra el funcionamiento de la infraestructura, las conexiones SSH, la autenticación RADIUS y los niveles de privilegio.
+> Haz clic, el video demuestra el funcionamiento de la infraestructura, las conexiones SSH, la autenticación RADIUS y los niveles de privilegio.
 
 ---
 
