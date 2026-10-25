@@ -1,4 +1,4 @@
-# Infraestructura 2 – Implementación de RADIUS, AAA y SSH
+# Asignación 2 – Implementación de RADIUS, AAA y SSH
 
 **Institución:** Instituto Tecnológico de las Américas (ITLA)  
 **Carrera:** Seguridad Informática  
@@ -525,13 +525,13 @@ Las evidencias incluidas en este repositorio muestran las configuraciones realiz
 
 ## 14. Conclusión
 
-Con esta práctica aprendimos cómo implementar autenticación centralizada mediante RADIUS, AAA y Windows Server 2022 para controlar el acceso a dispositivos Cisco.
+Con esta práctica aprendi cómo implementar autenticación centralizada mediante RADIUS, AAA y Windows Server 2022 para controlar el acceso a dispositivos Cisco.
 
-Comprendimos que no todos los usuarios necesitan tener los mismos permisos y que podemos administrar esos accesos mediante grupos y políticas.
+Comprendi que no todos los usuarios necesitan tener los mismos permisos y que podemos administrar esos accesos mediante grupos y políticas.
 
-También aprendimos la importancia de utilizar SSH, mantener registros de las conexiones y deshabilitar los puertos que no se utilizan.
+También aprendi la importancia de utilizar SSH, mantener registros de las conexiones y deshabilitar los puertos que no se utilizan.
 
-Este laboratorio nos permitió poner en práctica diferentes medidas de seguridad que pueden aplicarse para proteger la administración de una infraestructura de red.
+Este laboratorio me permitió poner en práctica diferentes medidas de seguridad que pueden aplicarse para proteger la administración de una infraestructura de red.
 
 ---
 
